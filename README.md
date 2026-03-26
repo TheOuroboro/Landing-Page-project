@@ -1,0 +1,1 @@
+Landing page project for the fulfilment of fundamentals of web development down do CSS basic
