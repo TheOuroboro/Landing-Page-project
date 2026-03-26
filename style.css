@@ -113,11 +113,11 @@ p{
 .photos {
     display: flex;
     justify-content: center;
-    gap: 20px;
+    gap: 100px;
 }
 .Section img {
-    width: 150px;
-    height: 100px;
+    width: 300px;
+    height: 300px;
 }
 
 
@@ -135,7 +135,7 @@ p{
     gap: 10px;
     border: #3882f6 2.5px solid;
     border-radius: 18px;
-    width: 150px;
+    width: 300px;
     overflow: hidden;
 
 }
